@@ -1,7 +1,31 @@
 ---
-- name: php
+- name: PHP
   proficiency: 精通
-  timer: 1988
-- name: php
+  timer: 2010
+- name: Mysql
   proficiency: 精通
-  timer: 1988
+  timer: 2010
+- name: Html
+  proficiency: 精通
+  timer: 2010
+- name: Css
+  proficiency: 精通
+  timer: 2010
+- name: Javascript
+  proficiency: 精通
+  timer: 2010
+- name: Linux
+  proficiency: 精通
+  timer: 2012
+- name: Nodejs
+  proficiency: 精通
+  timer: 2012
+- name: Mongodb
+  proficiency: 精通
+  timer: 2013
+- name: Docker
+  proficiency: 精通
+  timer: 2015
+- name: Python
+  proficiency: 精通
+  timer: 2015
