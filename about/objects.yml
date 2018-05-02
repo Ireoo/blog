@@ -1,1 +1,11 @@
-
+---
+- timer: 2017/04 - 2017/05
+  title: nodejs 设计的论坛+商城
+  software: nodejs+mongodb+heroku
+  description: 实现cnodejs.org全部功能，增加在线支付，商城功能。
+  duty: 负责整个系统的设计及测试
+- timer: 2017/04 - 2017/05
+  title: nodejs 设计的论坛+商城
+  software: nodejs+mongodb+heroku
+  description: 实现cnodejs.org全部功能，增加在线支付，商城功能。
+  duty: 负责整个系统的设计及测试
