@@ -1,4 +1,10 @@
 ---
+- timer: 2018/03 - 至今
+  title: 淘宝客应用平台
+  software: nodejs+vue+electron+github+区块链
+  description: 用户通过安装桌面端软件，下载自己需要的插件使用，开发者可以开发插件放到程序中使用，所有数据均以区块链形式存储
+  duty: 负责整个系统的设计、测试及维护
+  
 - timer: 2017/06 - 至今
   title: AR拍摄处理并上传至服务器
   software: nodejs+mysql+vue+webRTC+wechat
