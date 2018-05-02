@@ -2,10 +2,29 @@
 - timer: 2017/04 - 2017/05
   title: nodejs 设计的论坛+商城
   software: nodejs+mongodb+heroku
-  description: 实现cnodejs.org全部功能，增加在线支付，商城功能。
+  description: 实现cnodejs.org全部功能，增加在线支付，商城功能
   duty: 负责整个系统的设计及测试
-- timer: 2017/04 - 2017/05
-  title: nodejs 设计的论坛+商城
-  software: nodejs+mongodb+heroku
-  description: 实现cnodejs.org全部功能，增加在线支付，商城功能。
+  
+- timer: 2017/03 - 2017/05
+  title: spider.io
+  software: nodejs+mongodb+NPM
+  description: 实现爬虫，多规则简单管理，可配合数据库，即可商业化
   duty: 负责整个系统的设计及测试
+  
+- timer: 2014/07 - 2015/03
+  title: 微信公众号管理平台
+  software: PHP+MYSQL+LINUX
+  description: 通过简单的操作创建微信公众号网站，类似于现在的微盟
+  duty: 负责整个系统的设计及测试
+  
+- timer: 2012/03 - 2014/03
+  title: 支付系统，客户管理系统
+  software: PHP+MYSQL+LINUX+NODEJS
+  description: 通过支付系统方便用户充值，管理资金，在线交易等操作。通过客户管理系统方便给客服人员管理客户，了解客户具体情况等
+  duty: 整体系统架构，核心程序实现
+  
+- timer: 2010/02 - 2012/03
+  title: 房产门户网站
+  software: PHP+MYSQL+windowIIS
+  description: 实现在线浏览，预定，客户管理
+  duty: 全栈开发
