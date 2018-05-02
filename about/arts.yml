@@ -15,17 +15,17 @@
   proficiency: 精通
   timer: 2010
 - name: Linux
-  proficiency: 精通
-  timer: 2012
+  proficiency: 熟练
+  timer: 2013
 - name: Nodejs
   proficiency: 精通
-  timer: 2012
-- name: Mongodb
-  proficiency: 精通
   timer: 2013
+- name: Mongodb
+  proficiency: 熟练
+  timer: 2014
 - name: Docker
-  proficiency: 精通
-  timer: 2015
+  proficiency: 熟练
+  timer: 2016
 - name: Python
-  proficiency: 精通
-  timer: 2015
+  proficiency: 熟练
+  timer: 2016
