@@ -1,4 +1,10 @@
 ---
+- timer: 2017/06 - 至今
+  title: AR拍摄处理并上传至服务器
+  software: nodejs+mysql+vue+webRTC+wechat
+  description: 用户扫描屏幕二维码启动获取摄像头数据进行处理音频和视频，传至后端再处理，然后分发至服务器
+  duty: 负责整个系统的设计、测试及维护
+  
 - timer: 2017/04 - 2017/05
   title: nodejs 设计的论坛+商城
   software: nodejs+mongodb+heroku
