@@ -1,9 +1,17 @@
 ---
+- timer: 2017/06 - 至今
+  com: Integem AR公司
+  industry: AR增强现实
+  description: 服务端、应用开发
 - timer: 2014/07 - 2015/03
   com: 网络公司
   industry: 互联网/电子商务
   description: 微信平台开发
-- timer: 2014/07 - 2015/03
-  com: 网络公司
-  industry: 互联网/电子商务
-  description: 微信平台开发
+- timer: 2012/03 - 2014/03
+  com: 菲律宾某公司
+  industry: 互联网 IT 部门
+  description: 负责公司 it 部门管理和全栈开发支付交易系统，客户管理系统，api 开发和对接，网络推广跟进等
+- timer: 2010/01 - 2012/03
+  com: 房产中介
+  industry: 中介 网站开发部
+  description: 全栈开发房产门户网站
