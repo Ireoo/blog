@@ -2,7 +2,7 @@
 
 ## 准备工作
 1. 2个github项目地址：
-  > <your name>.github.io 项目 （存放网站内容） ①
+  > 《your name》.github.io 项目 （存放网站内容） ①
   > blog 项目 （存放动态数据内容）②
 1. 配置①中的config.json，将github_address 更改为你的 blog 项目地址即可
   
