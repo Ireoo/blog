@@ -15,7 +15,7 @@
   proficiency: 精通
   timer: 2010
 - name: Linux
-  proficiency: 熟练
+  proficiency: 精通
   timer: 2013
 - name: Nodejs
   proficiency: 精通
@@ -29,3 +29,6 @@
 - name: Python
   proficiency: 熟练
   timer: 2016
+- name: Golang
+  proficiency: 熟练
+  timer: 2018
